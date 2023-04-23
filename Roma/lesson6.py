@@ -39,22 +39,7 @@ print(88 - num)
 
 # nums = [1, 90, 5, 79, 456, 44444455556666666677778889999122222121212212323221311334453455,]
 # for i in nums:
-#       print(i)
 
-
-
-nums = [1, 10, 2, 3, 60, 115]
-num = 0 
-for i in nums:
-    num += i
-print(num)
-
-turtle.bgcolor('purple')
-turtle.begin_fill()
-
-for i in range(4)
-    turtle.forward(100)
-    turtle.right(90)
 
 
 
